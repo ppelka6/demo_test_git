@@ -1,4 +1,12 @@
 # Demo Test GIT
-## Project for learning Git with Python and PyCharm from:
+## Project for learning Git with support software
 
-![alt text](https://con.jaktestowac.pl/wp-content/uploads/brand/jaktestowac_small.png)
+## Source 
+[![alt text](https://con.jaktestowac.pl/wp-content/uploads/brand/jaktestowac_small.png)](https://jaktestowac/git-dla-testerow)
+
+## Technologies
+- Git c2.37.3
+- PyCharm v2023.1.4
+- Python v3.11.1
+- Windows v11
+- 
