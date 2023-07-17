@@ -9,3 +9,6 @@
 - PyCharm 2023.1.4
 - Python 3.11.1
 - Windows 11
+
+## External Platforms:
+[GitHub] (https://github.com) - repository hosting
